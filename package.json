@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abhinavdhasmana/github-action-example-node.git"
+    "url": "git+https://github.com/bp-learning/github-action-example-node.git"
   },
   "keywords": [
     "node.js",
@@ -22,9 +22,9 @@
   "author": "abhinav dhasmana (abhinav.dhasmana@live.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abhinavdhasmana/github-action-example-node/issues"
+    "url": "https://github.com/bp-learning/github-action-example-node/issues"
   },
-  "homepage": "https://github.com/abhinavdhasmana/github-action-example-node#readme",
+  "homepage": "https://github.com/bp-learning/github-action-example-node.git#readme",
   "dependencies": {
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
